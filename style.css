@@ -1,0 +1,540 @@
+  body{
+    margin: 0px;
+    height: 3000px;
+  }
+
+  nav {
+    width: 100%;
+    background-color:white;
+    }
+  .perithoriomain {
+    width: 100%;
+    height: 1300px;
+  }
+
+
+  .perithorio {
+    width: 100%;
+    background-color:white;
+    padding: 20px;
+    color: black;
+  }
+
+  h2 {
+    color: #14262f;
+    font-family: Segoe UI;
+    text-decoration: none;
+      }
+  .perithorio :hover {
+    color: black;
+    font-family:gabriola;
+
+  }
+  .perithorio :hover img {
+    background color: pink;
+    font-family:gabriola;
+
+  }
+  nav div a {
+    text-decoration: none;
+  }
+  .logo {
+    width: 23%;
+    background-color:;
+    height: 30px;
+    float: left;
+
+  }
+  .Hvad{
+    width: 17%;
+    background-color: white;
+    height: 70px;
+    float: left;
+    color: black;
+    }
+
+  .Nyheder {
+    width: 12%;
+    background-color: white;
+    height: 30px;
+    float: left;
+  }
+  .Mødos{
+    width: 12%;
+    background-color: white;
+    height: 30px;
+    float: left;
+  }
+  .kontakt {
+    width: 10%;
+    background-color: white;
+    height: 30px;
+    float: left;
+  }
+  .FB {
+    width: 9%;
+    background-color: white;
+
+    float: left;
+  }
+  .YT {
+    width: 1%;
+    background-color: white;
+    height: 30px;
+    float: left;
+  }
+  .artikler {
+    width: 220px;
+    height: 52px;
+    background-color:#14262f;
+    text-decoration:none;
+    font-family: Segoe UI;
+    border: none;
+    text color: #e69fc6;
+  }
+ .artikler h2 {
+   color: #e69fc6;
+ }
+ .artikler a {
+   text-decoration:none;
+ }
+ .allenyheder {
+   width: 220px;
+   height: 52px;
+   background-color:#14262f;
+   text-decoration:none;
+   border: none;
+   font-family: Segoe UI;
+   text color: #e69fc6;
+ }
+.allenyheder h2 {
+  color: #e69fc6;
+font-family: Segoe UI;
+}
+.allenyheder a {
+  text-decoration:none;
+}
+.Mødos2 center h2 {
+text-decoration:none;
+font-family: Segoe UI;
+}
+ .Nyheder2 a {
+   text-decoration:none;
+ }
+ .vvideo  {
+   width:550px;
+text-decoration: none;
+   height: 350px;
+   }
+   div .tekstbideo2 h2{
+  text-decoration: none;
+   }
+   .alleleder1{
+     width:100%;
+     height: 500px;
+   }
+
+   .leder1 {
+     width: 19%;
+     background-color: white;
+     height: 300px;
+     float: left;
+   }
+   .leder2 {
+     width: 20%;
+     background-color: white;
+     height: 300px;
+     float: left;
+   }
+   .alleleder2{
+     width:100%;
+     height: 500px;
+   }
+   .leder3 {
+     width: 22%;
+     background-color: white;
+     height: 300px;
+     float: left;
+   }
+   .leder4 {
+     width: 20%;
+     background-color: white;
+     height: 300px;
+     float: left;
+   }
+   .alleleder3{
+     width:100%;
+     height: 500px;
+   }
+   .leder5 {
+     width: 10%;
+     background-color: white;
+     height: 300px;
+     float: left;
+   }
+footer{
+  width: 100%;
+  height: 560px;
+  background-color: red;
+  float: left;
+}
+
+
+ .kontaktt{
+    width: 100%;
+    height: 700px;
+    float: left;
+    background-color:white;
+ }
+
+ .kontaktt5 {
+    width: 100%;
+    background-color:white;
+    height: 200px;
+    float: left;
+    margin: 50px;
+    text-transform:uppercase;
+
+ }
+ .kontaktt5 h1{
+    font-size: 32px;
+    line-height: 10px;
+    color::#14262f;
+ }
+ form {
+    margin-top: 50px;
+    transition: all 0s ease-in-out;
+ }
+ .form-control {
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #FFFACD;
+    font-size: 18px;
+    margin-bottom: 16px;
+ }
+ input {
+    height: 28px;
+ }
+ form .submit{
+    background: #14262f;
+    border-color: transparent;
+    color: #e69fc6;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 70px;
+    margin-top: 20px;
+ }
+ form .submit:hover{
+    background-color:#e69fc6;
+    color:#14262f;
+    font-family: Segoe UI;
+    cursor: pointer;
+ }
+ .orizontiosxoros1{
+    width: 1600px;
+    height: 150px;
+    background-color:#e69fc6;
+    color:#14262f;
+    font-family: Segoe UI;
+    float: left;
+   }
+   .foot1{
+     float: left;
+    margin-right: 400px;
+   }
+   .foot2{
+     float: left;
+       color:#14262f;
+       font-family: Segoe UI;
+       font-size: 25px;
+     margin-right: 200px;
+   }
+   .foot3{
+     float: left;
+     margin-right: 200px;
+
+   }
+   .foot4{
+     float: left;
+
+   }
+   .orizontiosxoros2{
+      width: 1600px;
+      height: 450px;
+      background-color: #14262f;
+
+     }
+     .foot1b{
+       width:10%;
+       height: 450px;
+       float: left;
+
+     }
+     .foot2b{
+       width:23%
+       height: 450px;
+       float: left;
+       color:#e69fc6;
+       font-family: Segoe UI;
+       font-size: 25px;
+
+      }
+      .foot2b h2 {
+      color:#e69fc6;
+      font-family: Segoe UI;
+      font-size: 25px;
+      }
+     .foot3b{
+       width: 7%;
+        height: 450px;
+       float: left;
+       }
+     .foot4b{
+       float: left;
+       width: 29%;
+       height: 450px;
+     }
+     .foot4b h2 {
+     color:#e69fc6;
+     font-family: Segoe UI;
+     font-size: 25px;
+     }
+     .foot5b{
+       width:10%;
+       height: 450px;
+       float: left;
+       }
+     .foot6b{
+       width:21%;
+       height: 450px;
+       float: left;
+       color:#e69fc6;
+
+       }
+      .foot6b h2 {
+      color:#e69fc6;
+      font-size: 25px;
+
+      }
+ @media (min-width:200px) and (max-width:950px){
+   .del1 img  {width: 100%; padding-top: 80px; }
+   .del2a img {width: 100%;}
+   .omm22 img {width: 12rem; height: 18rem;}
+   .del2b img {width: 360px; height: 480px;}
+   .omm23 {width: 0; height: 0rem; }
+   .stili4 img  {width:100px; height: 70px;}
+   .omm1 img {width:20rem; height: 6rem;}
+   p { font-size: 1rem; }
+   h2 { font-size: 0.6rem; margin-top: 4rem;}
+   .kontaktt.kontaktt5.kontaktt-form{float: left;width: 2rem; height: 3rem; font-size: 1rem; margin: 10rem}
+
+  }
+  /* css for slide show start*/
+
+
+  .slider{
+    width: 1600px;
+    height: 240px;
+
+    overflow: hidden;
+  }
+  .slides{
+  width: 500%;
+  height: 500px;
+  display: flex;
+  }
+  .slides input{
+    display: none;
+  }
+  .slide{
+    width: 20%;
+    transition: 2s;
+  }
+  .slide img{
+    width:1600px;
+    height: 240px;
+  }
+
+  /* css for manual slide navigation*/
+
+  .navigation-manual{
+  position: absolute;
+  width: 1530px;
+  margin-top: -250px;
+  display: flex;
+  justify-content: center;
+
+  }
+  .manual-btn{
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+  }
+  .manual-btn:not(:last-child){
+    margin-right: 40px;
+  }
+  .manual-btn:hover{
+    background: gray;
+  }
+  #radio1:checked ~ .first{
+    margin-left: 0;
+  }
+  #radio2:checked ~ .first{
+    margin-left: -20%;
+  }
+  #radio3:checked ~ .first{
+    margin-left: -40%;
+  }
+
+  /* css for automatic navigation*/
+
+  .navigation-auto{
+    position: absolute;
+    display: flex;
+    width: 1530px;
+    justify-content: center;
+    margin-top: 250px;
+  }
+  .navigation-auto div{
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 1s;
+  }
+  .navigation-auto div:not(:last-child){
+    margin-right: 40px;
+  }
+  #radio1:checked ~ .navigation-auto .auto-btn1{
+  background: gray;
+  }
+  #radio2:checked ~ .navigation-auto .auto-btn2{
+  background: gray;
+  }
+  #radio3:checked ~ .navigation-auto .auto-btn3{
+  background: gray;
+  }
+/* css for slide show end*/
+
+
+
+/* css for Scroll To Top button start*/
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 50px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #e69fc6; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 100px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+/* css for Scroll To Top button end*/
+.artikla{
+  width: 40%;
+  height: 800px;
+  margin-left: 50px;
+  float: left;
+
+}
+.artiklb{
+  width: 40%;
+  height: 1000px;
+  float: left;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.artiklb h2 {
+
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikla a{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl2a{
+  width: 40%;
+  height: 800px;
+  margin-left: 50px;
+  float: left;
+
+}
+.artikl2b{
+  width: 40%;
+  height: 1000px;
+  float: left;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.artikl2b h2 {
+
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl2a a{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl3a{
+  width: 40%;
+  height: 800px;
+  margin-left: 50px;
+  float: left;
+
+}
+.artikl3b{
+  width: 40%;
+  height: 1000px;
+  float: left;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.artikl3b h2 {
+
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl3a a{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl4a{
+  width: 40%;
+  height: 800px;
+  margin-left: 50px;
+  float: left;
+
+}
+.artikl4b{
+  width: 40%;
+  height: 1000px;
+  float: left;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.artikl4b h2 {
+
+  font-size: 20px;
+  font-weight: lighter;
+}
+.artikl4a a{
+  font-size: 20px;
+  font-weight: lighter;
+}
